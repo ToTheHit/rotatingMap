@@ -1,0 +1,46 @@
+.Hint {
+  width: 355px;
+  height: 1298px;
+
+
+  &__item {
+    &:not(:first-child) {
+      margin-top: 10px;
+    }
+
+    background-color: lightcoral;
+    width: 355px;
+    height: 196px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &__arrow {
+    width: 24px;
+    height: 71px;
+    position: relative;
+    background-size: cover;
+  }
+
+  &__figure {
+    position: relative;
+    width: 90px;
+    height: 100px;
+    margin-left: 20px;
+    background-size: 100% !important;
+
+    &--text {
+      width: 91px;
+      height: 102px;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: 'Gloria Hallelujah', sans-serif;
+      font-weight: bold;
+      font-size: 20px;
+    }
+  }
+}

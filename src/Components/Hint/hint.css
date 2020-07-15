@@ -1,0 +1,52 @@
+.Hint {
+  width: 355px;
+  height: 1298px;
+}
+.Hint__item {
+  background-color: lightcoral;
+  width: 355px;
+  height: 196px;
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.Hint__item:not(:first-child) {
+  margin-top: 10px;
+}
+.Hint__arrow {
+  width: 24px;
+  height: 71px;
+  position: relative;
+  background-size: cover;
+}
+.Hint__figure {
+  position: relative;
+  width: 90px;
+  height: 100px;
+  margin-left: 20px;
+  background-size: 100% !important;
+}
+.Hint__figure--text {
+  width: 91px;
+  height: 102px;
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: 'Gloria Hallelujah', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
