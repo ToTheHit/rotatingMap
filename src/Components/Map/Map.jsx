@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import './map.css';
 import { Line } from 'react-lineto';
 
-import map from '../../assets/map-firewatch.png';
+import map from '../../assets/map-firewatch.jpg';
 import mapGrid from '../../assets/map-grid2.png';
 import circleRed from '../../assets/circle-red.png';
 import degreesRed from '../../assets/degrees-red.png';
