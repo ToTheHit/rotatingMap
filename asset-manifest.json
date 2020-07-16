@@ -1,39 +1,30 @@
 {
   "files": {
     "main.css": "/rotatingMap/static/css/main.bd253d08.chunk.css",
-    "main.js": "/rotatingMap/static/js/main.9714ec46.chunk.js",
-    "main.js.map": "/rotatingMap/static/js/main.9714ec46.chunk.js.map",
+    "main.js": "/rotatingMap/static/js/main.ce33f321.chunk.js",
+    "main.js.map": "/rotatingMap/static/js/main.ce33f321.chunk.js.map",
     "runtime-main.js": "/rotatingMap/static/js/runtime-main.042d4a08.js",
     "runtime-main.js.map": "/rotatingMap/static/js/runtime-main.042d4a08.js.map",
     "static/js/2.4aa05d93.chunk.js": "/rotatingMap/static/js/2.4aa05d93.chunk.js",
     "static/js/2.4aa05d93.chunk.js.map": "/rotatingMap/static/js/2.4aa05d93.chunk.js.map",
     "index.html": "/rotatingMap/index.html",
-    "precache-manifest.fda9b58e14a38d4c061d5c04e1dd1272.js": "/rotatingMap/precache-manifest.fda9b58e14a38d4c061d5c04e1dd1272.js",
+    "precache-manifest.985d8983e4e3a9961fa6412f5dbecbb3.js": "/rotatingMap/precache-manifest.985d8983e4e3a9961fa6412f5dbecbb3.js",
     "service-worker.js": "/rotatingMap/service-worker.js",
     "static/css/main.bd253d08.chunk.css.map": "/rotatingMap/static/css/main.bd253d08.chunk.css.map",
     "static/js/2.4aa05d93.chunk.js.LICENSE.txt": "/rotatingMap/static/js/2.4aa05d93.chunk.js.LICENSE.txt",
-    "static/media/blue-clue.png": "/rotatingMap/static/media/blue-clue.96e2b586.png",
-    "static/media/circle-blue.png": "/rotatingMap/static/media/circle-blue.6c013d82.png",
-    "static/media/circle-green.png": "/rotatingMap/static/media/circle-green.488ceb02.png",
-    "static/media/circle-orange.png": "/rotatingMap/static/media/circle-orange.3f4baa95.png",
-    "static/media/circle-red.png": "/rotatingMap/static/media/circle-red.ab8f4ddb.png",
-    "static/media/clue-layout.png": "/rotatingMap/static/media/clue-layout.9cc31549.png",
-    "static/media/degrees-blue.png": "/rotatingMap/static/media/degrees-blue.3d09dc43.png",
-    "static/media/degrees-orange.png": "/rotatingMap/static/media/degrees-orange.cc227b1d.png",
-    "static/media/degrees-red.png": "/rotatingMap/static/media/degrees-red.fa153396.png",
-    "static/media/degrees.png": "/rotatingMap/static/media/degrees.55cfa74d.png",
-    "static/media/green-clue.png": "/rotatingMap/static/media/green-clue.d9c301df.png",
+    "static/media/circle-orange.png": "/rotatingMap/static/media/circle-orange.24e8f957.png",
+    "static/media/circle-red.png": "/rotatingMap/static/media/circle-red.232e91f4.png",
+    "static/media/degrees-blue.png": "/rotatingMap/static/media/degrees-blue.e88f4d95.png",
+    "static/media/degrees-orange.png": "/rotatingMap/static/media/degrees-orange.275b3f2e.png",
+    "static/media/degrees-red.png": "/rotatingMap/static/media/degrees-red.58a84a4a.png",
     "static/media/logo.svg": "/rotatingMap/static/media/logo.5d5d9eef.svg",
-    "static/media/map-firewatch.png": "/rotatingMap/static/media/map-firewatch.3b84a5e5.png",
-    "static/media/map-grid2.png": "/rotatingMap/static/media/map-grid2.5c03d354.png",
-    "static/media/map-info.png": "/rotatingMap/static/media/map-info.55d04884.png",
-    "static/media/orange-clue.png": "/rotatingMap/static/media/orange-clue.59348893.png",
-    "static/media/red-clue.png": "/rotatingMap/static/media/red-clue.6d65fd42.png"
+    "static/media/map-firewatch.jpg": "/rotatingMap/static/media/map-firewatch.fb6d70b6.jpg",
+    "static/media/map-info.png": "/rotatingMap/static/media/map-info.44f62897.png"
   },
   "entrypoints": [
     "static/js/runtime-main.042d4a08.js",
     "static/js/2.4aa05d93.chunk.js",
     "static/css/main.bd253d08.chunk.css",
-    "static/js/main.9714ec46.chunk.js"
+    "static/js/main.ce33f321.chunk.js"
   ]
 }
